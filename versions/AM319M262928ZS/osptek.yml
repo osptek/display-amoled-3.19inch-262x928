@@ -1,0 +1,10 @@
+id: AM319M262928ZS
+category: displays
+size: "3.19"
+panel: amoled
+resolution: 262x928
+interface: [mipi]
+driver: CO6300
+touch: CST3530
+outline: 26.50 x 82.45 mm
+active_area: 22.008 x 77.952 mm
